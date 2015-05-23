@@ -12,6 +12,10 @@
                 "children":
                 [
                     {
+                        "caption": "Browse It",
+                        "command": "target_package_selected"
+                    },
+                    {
                         "caption": "Browse from Input",
                         "command": "target_search_from_input"
                     }

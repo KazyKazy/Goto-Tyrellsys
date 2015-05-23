@@ -1,5 +1,9 @@
 [
     {
+    	"caption": "Goto Tyrellsys",
+        "command": "target_package_selected"
+    },
+    {
         "caption": "Goto Tyrellsys: Browse from Input",
         "command": "target_search_from_input"
     }

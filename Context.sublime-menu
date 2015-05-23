@@ -1,6 +1,6 @@
 [
     {
-        "command": "target_search_from_input",
+        "command": "target_package_selected",
         "caption": "Goto Tyrellsys!"
     }
 ]
