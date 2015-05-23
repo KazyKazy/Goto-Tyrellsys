@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Goto Tyrellsys",
+                "mnemonic": "G",
+                "id": "gotoTyrell",
+                "children":
+                [
+                    {
+                        "caption": "Browse from Input",
+                        "command": "target_search_from_input"
+                    }
+                ]
+            }
+        ]
+    }
+]

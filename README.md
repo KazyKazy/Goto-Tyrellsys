@@ -1,2 +1,2 @@
 # Goto-Tyrellsys
-Sublime plugin for browsing Tyrellsys.
+> Sublime plugin for browsing Tyrellsys.
