@@ -1,6 +1,6 @@
 [
     {
-    	"caption": "Goto Tyrellsys",
+    	"caption": "Goto Tyrellsys: Browse It",
         "command": "target_package_selected"
     },
     {
