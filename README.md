@@ -3,7 +3,7 @@
 
 ## How to install
 
-1. Clone or [download](https://github.com/KazuoYanagimoto/Goto-Tyrellsys/archive/master.zip) git repo into your 'Packages' folder.
+1. Clone or [download](https://github.com/KazuoYanagimoto/Goto-Tyrellsys/archive/master.zip)(and unzip) git repo into your 'Packages' folder.
 2. Restart Sublime Text (if required).
 
 ## Available command
